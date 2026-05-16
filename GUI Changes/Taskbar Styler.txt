@@ -161,7 +161,7 @@ controlStyles:
       - CornerRadius=8
   - target: Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement
     styles:
-      - Background:=<ImageBrush Stretch="Uniform" ImageSource="C:\Users\Reco\Pictures\Windhawk Icos\Apereture.ico" />
+      - Background:=<ImageBrush Stretch="Uniform" ImageSource="C:\Users\YOUR_USERNAME\PotatOS\Images\Aperture.ico" />
   - target: Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon
     styles:
       - Visibility=Collapsed
