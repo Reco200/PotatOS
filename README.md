@@ -3,11 +3,11 @@ A customized Windows 11 theme inspired by Aperture Science from Portal, designed
 
 # What does it look like?
 ### Desktop:
-![image](Images/Desktop.png)
+![image](Images/Readme/Desktop.png)
 ### Desktop (Open Start Menu):
-![image](Images/Desktop-Open-Start-Menu.png)
+![image](Images/Readme/Desktop-Open-Start-Menu.png)
 ### Fastfetch (Scoop):
-![image](Images/Fastfetch.png)
+![image](Images/Readme/Fastfetch.png)
 
 # GUI Changes
 I installed Windhawk and used the "Windows 11 Start Menu Styler" along with the "Windows 11 Taskbar Styler"
