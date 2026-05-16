@@ -22,19 +22,11 @@ In "Windows 11 Taskbar Styler", I again selected "Textual Mode" and pasted in th
 
 This changes the Windows icon to the Aperture Science logo. Because of that, the icon path is hardcoded in the settings file.
 
-In line 164 of the settings, you will need to change:
-
-```xml
-Background:=<ImageBrush Stretch="Uniform" ImageSource="C:\Users\John Smith\PotatOS\Images\Aperture.ico" />
-```
-
-to:
+In line 164 of the settings, you will need to replace "YOUR USERNAME" with your Windows username:
 
 ```xml
 Background:=<ImageBrush Stretch="Uniform" ImageSource="C:\Users\YOUR_USERNAME\PotatOS\Images\Aperture.ico" />
 ```
 
-Replace `YOUR_USERNAME` with your actual Windows username.
-
 # Fastfetch Changes
-I do not currently have the mental capacity to document this
+I'll do this later
