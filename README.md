@@ -29,4 +29,7 @@ Background:=<ImageBrush Stretch="Uniform" ImageSource="C:\Users\YOUR_USERNAME\Po
 ```
 
 # Fastfetch Changes
-I'll do this later
+### This is not required
+Install fastfetch with scoop (scoop.sh), and then type "fastfetch --gen-config."
+After you type that, a config.jsonc file will appear in the file path "C:\Users\Your-Username\.config\fastfetch"
+Replace the contents of that file with [INSERT FILE NAME HERE]
