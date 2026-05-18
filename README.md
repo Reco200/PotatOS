@@ -14,7 +14,7 @@ A customized Windows 11 theme inspired by Aperture Science from Portal, designed
 # Installation
 
 ## GUI Changes
-Install Windhawk and used the "Windows 11 Start Menu Styler" along with the "Windows 11 Taskbar Styler"
+Install Windhawk and use the "Windows 11 Start Menu Styler" along with the "Windows 11 Taskbar Styler"
 
 In "Windows 11 Start Menu Styler", go to the settings, and select "Textual Mode", and paste in the contents of:
 `PotatOS/GUI Changes/Start Menu Styler.txt`
