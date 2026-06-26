@@ -12,9 +12,10 @@ A uniform Windows 11 Windhawk theme that modifys the ugly and boring Windows 11 
 ![image](Images/Readme/Fastfetch.png)
 
 # Installation
-## "Dependencies" 
+## Dependencies
 ### (You can choose which things you want to install and use in this theme)
 -Windhawk
+
 -Fastfetch (Install through terminal with Scoop [Scoop.sh])
 
 ## GUI Changesa
@@ -29,7 +30,7 @@ In "Windows 11 Taskbar Styler", again select "Textual Mode" and paste in the con
 ## Fastfetch Changes
 #### This is optional
 Install fastfetch with scoop (scoop.sh), and then type "fastfetch --gen-config."
-After you type that, a config.jsonc file will appear in the file path `C:\Users\Your-Username\.config\fastfetch`
+After you type that, a config.jsonc file will appear in the file path `C:\Users\%USERPROFILE%\.config\fastfetch`
 Replace the contents of that file with:
 `Fastfetch/config.jsonc`
 
