@@ -35,7 +35,7 @@ controlStyles:
   - target: Border#AcrylicOverlay
     styles:
       - CornerRadius=30
-      - Background:=<AcrylicBrush TintColor="{ThemeResource CardStrokeColorDefaultSolid}" FallbackColor="{ThemeResource CardStrokeColorDefaultSolid}" TintOpacity="0" TintLuminosityOpacity="1" Opacity="1"/>
+      - Background:=#0d1c37
       - Height=430
       - Margin=0,-65,0,0
   - target: Windows.UI.Xaml.Controls.Grid#AllAppsRoot
@@ -51,12 +51,12 @@ controlStyles:
       - MinHeight=Auto
   - target: StartDocked.AppListView#NavigationPanePlacesListView > Windows.UI.Xaml.Controls.Border
     styles:
-      - Background:=<AcrylicBrush TintColor="{ThemeResource CardStrokeColorDefaultSolid}" FallbackColor="{ThemeResource CardStrokeColorDefaultSolid}" TintOpacity="0" TintLuminosityOpacity=".5" Opacity="1"/>
+      - Background:=#0d1c37
       - CornerRadius=18
       - Margin=0,0,15,0
   - target: StartDocked.NavigationPaneButton#PowerButton > Windows.UI.Xaml.Controls.Grid@CommonStates > Windows.UI.Xaml.Controls.Border#BackgroundBorder
     styles:
-      - Background:=<AcrylicBrush TintColor="{ThemeResource CardStrokeColorDefaultSolid}" FallbackColor="{ThemeResource CardStrokeColorDefaultSolid}" TintOpacity="0" TintLuminosityOpacity="1" Opacity="1"/>
+      - Background:=#0d1c37
       - BorderBrush@Normal:=<AcrylicBrush TintColor="{ThemeResource SurfaceStrokeColorDefault}" FallbackColor="{ThemeResource SurfaceStrokeColorDefault}" TintOpacity="0" TintLuminosityOpacity=".1" Opacity="1"/>
       - CornerRadius=30
       - BorderThickness=5
