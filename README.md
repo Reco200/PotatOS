@@ -2,13 +2,13 @@
 A uniform Windows 11 Windhawk theme that modifys the ugly and boring Windows 11 UI and turns it into a clean, minimalistic, blue, and Aperture Science themed from the Valve video game, Portal
 
 # What does it look like?
-### Desktop:
+## Desktop:
 ![image](Images/Readme/Desktop.png)
 
-### Desktop (Open Start Menu):
+## Desktop (Open Start Menu):
 ![image](Images/Readme/Desktop-Open-Start-Menu.png)
 
-### Fastfetch (Scoop):
+## Fastfetch (Scoop):
 ![image](Images/Readme/Fastfetch.png)
 
 # Installation
