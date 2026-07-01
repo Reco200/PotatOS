@@ -18,7 +18,7 @@ A uniform Windows 11 Windhawk theme that modifys the ugly and boring Windows 11 
 
 -Fastfetch (Install through terminal with Scoop [Scoop.sh])
 
-## GUI Changesa
+## GUI Changes
 Install Windhawk and use the "Windows 11 Start Menu Styler" along with the "Windows 11 Taskbar Styler"
 
 In "Windows 11 Start Menu Styler", go to the settings, and select "Textual Mode", and paste in the contents of:
