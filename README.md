@@ -1,4 +1,4 @@
-# Windows 11 PotatOS
+# Windows 11 PotatOS (deprecated)
 A uniform Windows 11 Windhawk theme that modifys the ugly and boring Windows 11 UI and turns it into a clean, minimalistic, blue, and Aperture Science themed from the Valve video game, Portal
 
 # What does it look like?
